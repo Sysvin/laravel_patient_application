@@ -1,4 +1,4 @@
-The purpose of this application is to create a list of patients and record blood pressures levels.
+The purpose of this application is to create a list of patients and record blood pressure levels.
 
 This application is built with Tailwind, Alpine.js, Livewire, and Laravel (TALL stack).
 
